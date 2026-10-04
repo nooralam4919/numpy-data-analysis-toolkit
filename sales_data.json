@@ -1,0 +1,22 @@
+| Order_ID | Order_Date | Customer | Product | Category | Region | Quantity | Unit_Price | Total_Sales |
+|---|---|---|---|---|---|---:|---:|---:|
+| 1001 | 2026-01-05 | Arjun | Laptop | Electronics | South | 2 | 60,000 | 120,000 |
+| 1002 | 2026-01-07 | Priya | Mouse | Electronics | South | 5 | 800 | 4,000 |
+| 1003 | 2026-01-10 | Rahul | Keyboard | Electronics | North | 3 | 1,500 | 4,500 |
+| 1004 | 2026-01-12 | Ananya | Monitor | Electronics | West | 2 | 12,000 | 24,000 |
+| 1005 | 2026-01-15 | Vikram | Headphones | Accessories | East | 4 | 2,500 | 10,000 |
+| 1006 | 2026-01-18 | Neha | Laptop | Electronics | North | 1 | 60,000 | 60,000 |
+| 1007 | 2026-01-20 | Rohan | Mouse | Electronics | West | 8 | 800 | 6,400 |
+| 1008 | 2026-01-22 | Sneha | Keyboard | Electronics | South | 6 | 1,500 | 9,000 |
+| 1009 | 2026-01-25 | Amit | Monitor | Electronics | East | 3 | 12,000 | 36,000 |
+| 1010 | 2026-01-28 | Kavya | Headphones | Accessories | North | 5 | 2,500 | 12,500 |
+| 1011 | 2026-02-02 | Arjun | Laptop | Electronics | South | 2 | 60,000 | 120,000 |
+| 1012 | 2026-02-05 | Priya | Mouse | Electronics | West | 10 | 800 | 8,000 |
+| 1013 | 2026-02-08 | Rahul | Keyboard | Electronics | North | 4 | 1,500 | 6,000 |
+| 1014 | 2026-02-11 | Ananya | Monitor | Electronics | South | 2 | 12,000 | 24,000 |
+| 1015 | 2026-02-14 | Vikram | Headphones | Accessories | East | 6 | 2,500 | 15,000 |
+| 1016 | 2026-02-18 | Neha | Laptop | Electronics | North | 3 | 60,000 | 180,000 |
+| 1017 | 2026-02-21 | Rohan | Mouse | Electronics | South | 12 | 800 | 9,600 |
+| 1018 | 2026-02-24 | Sneha | Keyboard | Electronics | West | 7 | 1,500 | 10,500 |
+| 1019 | 2026-02-27 | Amit | Monitor | Electronics | East | 4 | 12,000 | 48,000 |
+| 1020 | 2026-03-02 | Kavya | Headphones | Accessories | North | 8 | 2,500 | 20,000 |
